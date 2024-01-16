@@ -1,2 +1,2 @@
 This script download images with transport from COCO dataset https://cocodataset.org/ in COCO and YOLO formats. It is also possible to visualize markup on images to check the results(commented part).
-To run the script you need to download the annotations file http://images.cocodataset.org/annotations/annotations_trainval2017.zip and put instanses_train2017 file in Annotations folder(Also dont forget to change path to Annotations folder).
+To run the script you need to download the annotations file http://images.cocodataset.org/annotations/annotations_trainval2017.zip(open in new tab and restart page) and put instanses_train2017 file in Annotations folder(Also dont forget to change path to Annotations folder).
